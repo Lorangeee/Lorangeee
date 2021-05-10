@@ -20,8 +20,15 @@ Transfer Learning
   We call it a pre-learn to fine-tune process if all layers' parameters are re-learned.
   
 Multi-task Learning
-
+  Using one model but have more than one result.
+  When will multi-task make sense?
+    Trainning on a set of tasks that could benifit from having shared low-level features.
+    Amount of data I have usually for each task is similar.
+    Can train a big enough network to make good for all tasks.
+ 
 End-to-end Deep Learning
+  Instead to divide the task into a pipe-line procedure, end-to-end deep learning using a model to give the output.
+  If you have tons of datas, it is a good idea to use end-to-end deep learning.
   
  
       
