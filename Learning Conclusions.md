@@ -30,6 +30,9 @@ End-to-end Deep Learning
   Instead to divide the task into a pipe-line procedure, end-to-end deep learning using a model to give the output.
   If you have tons of datas, it is a good idea to use end-to-end deep learning.
   
- 
+***
+# GITHUB ITSELF
+### REPOSITORY & PROJECT
+Project belongs
       
      
